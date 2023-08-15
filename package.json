@@ -2,16 +2,20 @@
   "name": "@fb-sys/debug",
   "version": "1.0.0",
   "description": "Module for logging debug messages",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fb-sys/debug.git"
-  },
   "license": "MIT",
   "author": {
     "name": "Shah Bakhteyar Haider",
     "email": "haider.bakhteyar786@gmail.com",
     "url": "https://github.com/bh1337x"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fb-sys/debug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fb-sys/debug/issues"
+  },
+  "homepage": "https://github.com/fb-sys/debug#readme",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "files": [

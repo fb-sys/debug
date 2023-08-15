@@ -1,6 +1,6 @@
 # debug
 
-Name: <i>@victor-systems/debug</i>
+Name: <i>@fb-sys/debug</i>
 <br>
 Version: <i>1.0.0</i>
 
@@ -10,13 +10,13 @@ Version: <i>1.0.0</i>
 ## Install
 
 ```bash
-npm install @victor-systems/debug
+npm install @fb-sys/debug
 ```
 
 ## Usage
 
 ```javascript
-import { makeDebug } from '@victor-systems/debug';
+import { makeDebug } from '@fb-sys/debug';
 
 const debug = makeDebug('my-app', { color: true });
 

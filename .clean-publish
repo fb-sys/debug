@@ -1,0 +1,10 @@
+{
+  "files": [
+    "src",
+    ".gitignore",
+    "tsconfig.json"
+  ],
+  "access": "public",
+  "tempDir": "package",
+  "withoutPublish": true
+}
